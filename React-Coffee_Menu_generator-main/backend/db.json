@@ -1,0 +1,50 @@
+{
+  "SignInData": [
+    {
+      "id": 1,
+      "Name": "Name",
+      "Email": "json-server",
+      "Password": "typicode",
+      "Conform-pwsd": "typicode1"
+    },
+    {
+      "name": "nithin",
+      "email": "nithin@gmail.com",
+      "pswd": "nithin@123",
+      "cpswd": "akshjay@123",
+      "id": 2
+    }
+  ],
+  "ImageUpload": [
+    {
+      "id": 1,
+      "Name": "coffee",
+      "Price": 199.99
+    },
+    {
+      "name": "local coffee",
+      "price": "29.99",
+      "id": 2
+    },
+    {
+      "name": "local coffee",
+      "price": "29.99",
+      "id": 3
+    },
+    {
+      "name": "local coffee",
+      "price": "29.99",
+      "id": 4
+    },
+    {
+      "name": "gfdcvb",
+      "price": "12345",
+      "id": 5
+    },
+    {
+      "name": "hfilje",
+      "price": "123.44",
+      "id": 6
+    }
+  ]
+}
